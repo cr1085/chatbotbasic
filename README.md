@@ -38,18 +38,21 @@
 
 - **Paso 1:** Requisitos Previos
 - **Asegúrate de tener instalado Python 3.8 o superior. Para verificarlo, abre tu terminal y ejecuta:**
-  `bash
+  ``bash
    python --version
-   Paso 2: Descargar el Código
-   Clona este repositorio desde GitHub usando git:
-  `bash
-  git clone https://github.com/tu-usuario/chatbot-claseia.git
-  cd chatbot-claseia
+
+  - **Paso 2:** Descargar el Código
+  - **Clona este repositorio desde GitHub usando git:**
+    ``bash
+     git clone https://github.com/tu-usuario/chatbot-claseia.git
+     cd chatbot-claseia
+
 - **Paso 3: Instalar Dependencias**
-  Navega a la carpeta del backend e instala las bibliotecas necesarias.
- `bash
-  cd backend
-  pip install -r requirements.txt
+     Navega a la carpeta del backend e instala las bibliotecas necesarias.
+   ``bash
+     cd backend
+     pip install -r requirements.txt
+
 - **Nota: He añadido el archivo requirements.txt a la estructura para simplificar la instalación. Si no lo tienes, puedes crearlo y pegar el siguiente contenido:**
 
 - Flask
