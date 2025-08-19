@@ -4,36 +4,36 @@
 - HTML, CSS y JavaScript.
 
 # ✨ Características Principales
-Backend con Flask: Servidor ligero y eficiente para manejar la lógica del chatbot.
+- **Backend con Flask:** Servidor ligero y eficiente para manejar la lógica del chatbot.
 
-Frontend Amigable: Interfaz moderna y responsiva construida con HTML, CSS y JavaScript, con el soporte de Bootstrap.
+- **Frontend Amigable:** Interfaz moderna y responsiva construida con HTML, CSS y JavaScript, con el soporte de Bootstrap.
 
-Base de Conocimiento: Utiliza un archivo .csv simple (response.csv) como base de datos para almacenar y gestionar preguntas y respuestas.
+- **Base de Conocimiento:** Utiliza un archivo .csv simple (response.csv) como base de datos para almacenar y gestionar preguntas y respuestas.
 
-Lógica de Coincidencias: Responde de manera inteligente analizando la similitud de las preguntas del usuario con su base de datos.
+- **Lógica de Coincidencias:** Responde de manera inteligente analizando la similitud de las preguntas del usuario con su base de datos.
 
-Fácil de Personalizar: Permite a los usuarios añadir nuevas respuestas y modificar el diseño sin necesidad de conocimientos avanzados.
+- **Fácil de Personalizar:** Permite a los usuarios añadir nuevas respuestas y modificar el diseño sin necesidad de conocimientos avanzados.
 
-📁 Estructura del Proyecto
-La organización del código está pensada para ser intuitiva y fácil de navegar:
+# 📁 Estructura del Proyecto
+**La organización del código está pensada para ser intuitiva y fácil de navegar:**
 
-chatbot-claseia/
-├── backend/
-│   ├── app.py                      # 🧠 Lógica principal del servidor Flask
-│   └── knowledge_base/
-│       └── response.csv            # 📚 Base de datos de preguntas y respuestas
-├── frontend/
-│   ├── static/
-│   │   ├── css/
-│   │   │   └── styles.css          # 🎨 Estilos del chatbot
-│   │   └── js/
-│   │       └── script.js           # ⚙️ Lógica interactiva del frontend
-│   └── templates/
-│       └── chat.html               # 🖥️ Estructura visual de la interfaz
-├── README.md                       # 📝 Este documento
-└── requirements.txt                # 📦 Dependencias del proyecto
-🚀 Guía de Instalación y Uso
-Sigue estos pasos para descargar, configurar y ejecutar el chatbot en tu máquina.
+- chatbot-claseia/
+- ├── backend/
+- │   ├── app.py                      # 🧠 Lógica principal del servidor Flask
+- │   └── knowledge_base/
+- │       └── response.csv            # 📚 Base de datos de preguntas y respuestas
+- ├── frontend/
+- │   ├── static/
+- │   │   ├── css/
+- │   │   │   └── styles.css          # 🎨 Estilos del chatbot
+- │   │   └── js/
+- │   │       └── script.js           # ⚙️ Lógica interactiva del frontend
+- │   └── templates/
+- │       └── chat.html               # 🖥️ Estructura visual de la interfaz
+- ├── README.md                       # 📝 Este documento
+- └── requirements.txt                # 📦 Dependencias del proyecto
+- 🚀 Guía de Instalación y Uso
+- Sigue estos pasos para descargar, configurar y ejecutar el chatbot en tu máquina.
 
 Paso 1: Requisitos Previos
 Asegúrate de tener instalado Python 3.8 o superior. Para verificarlo, abre tu terminal y ejecuta:
