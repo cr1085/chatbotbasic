@@ -38,11 +38,11 @@
 
 - **Paso 1:** Requisitos Previos
 - **Asegúrate de tener instalado Python 3.8 o superior. Para verificarlo, abre tu terminal y ejecuta:**
-  ``bash
+  ```bash
    python --version
 
-  - **Paso 2:** Descargar el Código
-  - **Clona este repositorio desde GitHub usando git:**
+- **Paso 2:** Descargar el Código
+- **Clona este repositorio desde GitHub usando git:**
     ``bash
      git clone https://github.com/tu-usuario/chatbot-claseia.git
      cd chatbot-claseia
