@@ -59,24 +59,15 @@
    pandas
 
 # **Paso 4: Ejecutar el Chatbot**
-Desde la carpeta backend, ejecuta el servidor Flask.
+- **Desde la carpeta backend, ejecuta el servidor Flask.**
+  ```bash
+   python app.py
 
-Bash
+- **Verás un mensaje en la terminal que indica que el servidor se está ejecutando en una dirección local.**
 
-python app.py
-Verás un mensaje en la terminal que indica que el servidor se está ejecutando en una dirección local.
+# **Paso 5: Interactuar con el Chatbot**
+- **Abre tu navegador web y visita la siguiente dirección para acceder a la interfaz:**
+   ```bash
+   http://127.0.0.1:5000
 
-Paso 5: Interactuar con el Chatbot
-Abre tu navegador web y visita la siguiente dirección para acceder a la interfaz:
-
-http://127.0.0.1:5000
-¡Ahora ya puedes empezar a chatear con tu bot!
-
-🛠️ Personalización del Proyecto
-Este chatbot está diseñado para que lo modifiques y aprendas. Aquí tienes algunas ideas:
-
-Añadir Nuevas Respuestas: Abre el archivo backend/knowledge_base/response.csv y agrega nuevas filas con preguntas y sus respuestas correspondientes. No olvides reiniciar el servidor (Ctrl+C y python app.py) para que los cambios surtan efecto.
-
-Modificar el Diseño: Edita el archivo frontend/static/css/styles.css para cambiar colores, fuentes o cualquier otro elemento visual.
-
-Mejorar la Lógica: ¿Quieres que el chatbot sea más inteligente? Explora el código en backend/app.py para modificar cómo procesa las preguntas y busca las respuestas.
+**¡Ahora ya puedes empezar a chatear con tu bot!**
