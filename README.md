@@ -43,20 +43,20 @@
 
 - **Paso 2:** Descargar el Código
 - **Clona este repositorio desde GitHub usando git:**
-    ``bash
+    ```bash
      git clone https://github.com/tu-usuario/chatbot-claseia.git
      cd chatbot-claseia
 
 - **Paso 3: Instalar Dependencias**
-     Navega a la carpeta del backend e instala las bibliotecas necesarias.
-   ``bash
+- **Navega a la carpeta del backend e instala las bibliotecas necesarias.**
+   ```bash
      cd backend
      pip install -r requirements.txt
 
 - **Nota: He añadido el archivo requirements.txt a la estructura para simplificar la instalación. Si no lo tienes, puedes crearlo y pegar el siguiente contenido:**
-
-- Flask
-- pandas
+   ```bash
+   Flask
+   pandas
 
 # **Paso 4: Ejecutar el Chatbot**
 Desde la carpeta backend, ejecuta el servidor Flask.
