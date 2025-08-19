@@ -37,26 +37,24 @@
 ### **Sigue estos pasos para descargar, configurar y ejecutar el chatbot en tu máquina.**
 
 - **Paso 1:** Requisitos Previos
-- Asegúrate de tener instalado Python 3.8 o superior. Para verificarlo, abre tu terminal y ejecuta:
+- **Asegúrate de tener instalado Python 3.8 o superior. Para verificarlo, abre tu terminal y ejecuta:**
+  `bash
+   python --version
+   Paso 2: Descargar el Código
+   Clona este repositorio desde GitHub usando git:
+  `bash
+  git clone https://github.com/tu-usuario/chatbot-claseia.git
+  cd chatbot-claseia
+- **Paso 3: Instalar Dependencias**
+  Navega a la carpeta del backend e instala las bibliotecas necesarias.
+ `bash
+  cd backend
+  pip install -r requirements.txt
+- **Nota: He añadido el archivo requirements.txt a la estructura para simplificar la instalación. Si no lo tienes, puedes crearlo y pegar el siguiente contenido:**
 
-```bash
+- Flask
+- pandas
 
-python --version
-Paso 2: Descargar el Código
-Clona este repositorio desde GitHub usando git:
-
-
-git clone https://github.com/tu-usuario/chatbot-claseia.git
-cd chatbot-claseia
-Paso 3: Instalar Dependencias
-Navega a la carpeta del backend e instala las bibliotecas necesarias.
-
-cd backend
-pip install -r requirements.txt
-Nota: He añadido el archivo requirements.txt a la estructura para simplificar la instalación. Si no lo tienes, puedes crearlo y pegar el siguiente contenido:
-
-### **Flask**
-### **pandas**
 # **Paso 4: Ejecutar el Chatbot**
 Desde la carpeta backend, ejecuta el servidor Flask.
 
