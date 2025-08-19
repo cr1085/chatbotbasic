@@ -33,13 +33,13 @@
 - ├── README.md                       # 📝 Este documento
 - └── requirements.txt                # 📦 Dependencias del proyecto
 
-## ** Guía de Instalación y Uso**
+## **Guía de Instalación y Uso**
 ### **Sigue estos pasos para descargar, configurar y ejecutar el chatbot en tu máquina.**
 
-Paso 1: Requisitos Previos
-Asegúrate de tener instalado Python 3.8 o superior. Para verificarlo, abre tu terminal y ejecuta:
+- **Paso 1:** Requisitos Previos
+- Asegúrate de tener instalado Python 3.8 o superior. Para verificarlo, abre tu terminal y ejecuta:
 
-Bash
+```bash
 
 python --version
 Paso 2: Descargar el Código
