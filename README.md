@@ -43,7 +43,7 @@
 - │       └── chat.html               # 🖥️ Estructura visual de la interfaz
 - ├── README.md                       # 📝 Este documento
 - └── requirements.txt                # 📦 Dependencias del proyecto -->
-    ``bash
+      
       chatbot-claseia/
       ├── backend/
       │   ├── app.py                      # 🧠 Lógica principal del servidor Flask
