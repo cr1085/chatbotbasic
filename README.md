@@ -1,3 +1,4 @@
+![Logo de Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 # 🤖 Chatbot Interactivo
 - Un chatbot simple y funcional, diseñado para fines educativos, que 
 - muestra cómo conectar un backend de Python/Flask con un frontend de 
