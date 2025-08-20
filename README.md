@@ -43,7 +43,7 @@
 - │       └── chat.html               # 🖥️ Estructura visual de la interfaz
 - ├── README.md                       # 📝 Este documento
 - └── requirements.txt                # 📦 Dependencias del proyecto
-***************************************************3CB SOLUCIONES*************************************************
+- [][][][][][][][][][][][][][][][][][][][]***3CB SOLUCIONES***[][][][][][][][][][][][][][][][][][][][][][][][][][][]
 ## **Guía de Instalación y Uso**
 
 - **Soporte al Cliente Básico:** Responde a preguntas comunes sobre tus productos o servicios 24/7.
@@ -51,7 +51,7 @@
 - **Generación de Leads:** Captura información de contacto de los visitantes de tu sitio web.
 
 - **Educación y Onboarding:** Guía a nuevos usuarios a través de tus procesos o funcionalidades.
-***************************************************3CB SOLUCIONES********************************************************
+- [][][][][][][][][][][][][][][][][][][][][][][]**3CB SOLUCIONES**[][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 ### **Sigue estos pasos para descargar, configurar y ejecutar el chatbot en tu máquina.**
 
 - **Paso 1:** Requisitos Previos
