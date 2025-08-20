@@ -1,20 +1,10 @@
-![Logo de Google](logo.png)
+![Logo de Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 # 🤖 Chatbot Interactivo
 - Un chatbot simple y funcional, diseñado para fines educativos, que 
 - muestra cómo conectar un backend de Python/Flask con un frontend de 
 - HTML, CSS y JavaScript.
 
 # Características Principales
-- **Respuestas Inteligentes:** Configura el bot para que responda a las preguntas más frecuentes de tus clientes, resolviendo dudas de forma automática.
-
-- **Base de Conocimiento Adaptable:** Usa un simple archivo .csv para almacenar tus preguntas y respuestas. ¡Es tan fácil como editar una hoja de Excel!
-
-- **Integración Sencilla:** Diseñado para ser integrado fácilmente en cualquier sitio web existente.
-
-- **Diseño Profesional:** Interfaz limpia y responsiva que se adapta a cualquier dispositivo, ofreciendo una experiencia de usuario fluida.
-
-- **Personalización Total:** Modifica el código para que el chatbot se ajuste a la voz y la identidad de tu marca, desde la apariencia hasta la forma de responder.
-
 - **Backend con Flask:** Servidor ligero y eficiente para manejar la lógica del chatbot.
 
 - **Frontend Amigable:** Interfaz moderna y responsiva construida con HTML, CSS y JavaScript, con el soporte de Bootstrap.
