@@ -92,6 +92,7 @@
 # **Paso 4: Ejecutar el Chatbot**
 - **Desde la carpeta backend, ejecuta el servidor Flask.**
   ```bash
+   cd backend
    python app.py
 
 - **Verás un mensaje en la terminal que indica que el servidor se está ejecutando en una dirección local.**
