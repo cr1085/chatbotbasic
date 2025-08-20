@@ -9,8 +9,6 @@
 
 - **Frontend Amigable:** Interfaz moderna y responsiva construida con HTML, CSS y JavaScript, con el soporte de Bootstrap.
 
-- **Base de Conocimiento:** Utiliza un archivo .csv simple (response.csv) como base de datos para almacenar y gestionar preguntas y respuestas.
-
 - **Lógica de Coincidencias:** Responde de manera inteligente analizando la similitud de las preguntas del usuario con su base de datos.
 
 - **Fácil de Personalizar:** Permite a los usuarios añadir nuevas respuestas y modificar el diseño sin necesidad de conocimientos avanzados.
