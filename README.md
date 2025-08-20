@@ -15,6 +15,16 @@
 
 - **Fácil de Personalizar:** Permite a los usuarios añadir nuevas respuestas y modificar el diseño sin necesidad de conocimientos avanzados.
 
+- **Respuestas Inteligentes:** Configura el bot para que responda a las preguntas más frecuentes de tus clientes, resolviendo dudas de forma automática.
+
+- **Base de Conocimiento Adaptable:** Usa un simple archivo .csv para almacenar tus preguntas y respuestas. ¡Es tan fácil como editar una hoja de Excel!
+
+- **Integración Sencilla:** Diseñado para ser integrado fácilmente en cualquier sitio web existente.
+
+- **Diseño Profesional:** Interfaz limpia y responsiva que se adapta a cualquier dispositivo, ofreciendo una experiencia de usuario fluida.
+
+- **Personalización Total:** Modifica el código para que el chatbot se ajuste a la voz y la identidad de tu marca, desde la apariencia hasta la forma de responder.
+
 # 📁 Estructura del Proyecto
 **La organización del código está pensada para ser intuitiva y fácil de navegar:**
 
@@ -33,8 +43,15 @@
 - │       └── chat.html               # 🖥️ Estructura visual de la interfaz
 - ├── README.md                       # 📝 Este documento
 - └── requirements.txt                # 📦 Dependencias del proyecto
-
+***************************************************3CB SOLUCIONES*************************************************
 ## **Guía de Instalación y Uso**
+
+- **Soporte al Cliente Básico:** Responde a preguntas comunes sobre tus productos o servicios 24/7.
+
+- **Generación de Leads:** Captura información de contacto de los visitantes de tu sitio web.
+
+- **Educación y Onboarding:** Guía a nuevos usuarios a través de tus procesos o funcionalidades.
+***************************************************3CB SOLUCIONES********************************************************
 ### **Sigue estos pasos para descargar, configurar y ejecutar el chatbot en tu máquina.**
 
 - **Paso 1:** Requisitos Previos
