@@ -28,7 +28,7 @@
 # 📁 Estructura del Proyecto
 **La organización del código está pensada para ser intuitiva y fácil de navegar:**
 
-- chatbot-claseia/
+<!-- - chatbot-claseia/
 - ├── backend/
 - │   ├── app.py                      # 🧠 Lógica principal del servidor Flask
 - │   └── knowledge_base/
@@ -42,7 +42,24 @@
 - │   └── templates/
 - │       └── chat.html               # 🖥️ Estructura visual de la interfaz
 - ├── README.md                       # 📝 Este documento
-- └── requirements.txt                # 📦 Dependencias del proyecto
+- └── requirements.txt                # 📦 Dependencias del proyecto -->
+    ``bash
+      chatbot-claseia/
+      ├── backend/
+      │   ├── app.py                      # 🧠 Lógica principal del servidor Flask
+      │   └── knowledge_base/
+      │       └── response.csv            # 📚 Base de datos de preguntas y respuestas
+      ├── frontend/
+      │   ├── static/
+      │   │   ├── css/
+      │   │   │   └── styles.css          # 🎨 Estilos del chatbot
+      │   │   └── js/
+      │   │       └── script.js           # ⚙️ Lógica interactiva del frontend
+      │   └── templates/
+      │       └── chat.html               # 🖥️ Estructura visual de la interfaz
+      ├── README.md                       # 📝 Este documento
+      └── requirements.txt                # 📦 Dependencias del proyecto
+
 - [][][][][][][][][][][][][][][][][][][][]***3CB SOLUCIONES***[][][][][][][][][][][][][][][][][][][][][][][][][][][]
 ## **Guía de Instalación y Uso**
 
